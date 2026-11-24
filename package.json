@@ -13,6 +13,7 @@
     "url": "https://github.com/F1sts/performance-ui/issues"
   },
   "private": true,
+  "packageManager": "pnpm@11.22.0",
   "sideEffects": ["**/*.css"],
   "files": ["dist"],
   "publishConfig": {
